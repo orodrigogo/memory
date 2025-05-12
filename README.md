@@ -29,10 +29,11 @@ Um jogo da memória simples e divertido, desenvolvido 100% com **HTML**, **CSS**
 ## 📁 Estrutura do Projeto
 
 📦 memory/
-├── index.html
-├── styles.css
-├── scripts.js
-└── assets/
+
+- index.html
+- styles.css
+- scripts.js
+- assets/
 
 ## 🧩 Funcionalidades
 
