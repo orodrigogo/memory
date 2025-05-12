@@ -1,6 +1,6 @@
 # 🧠 Jogo da Memória
 
-## 📸 Preview
+### 📸 Preview
 
 ![Preview do Jogo](./assets/preview.png)
 
@@ -10,7 +10,7 @@ Um jogo da memória simples e divertido, desenvolvido 100% com **HTML**, **CSS**
 
 ---
 
-## 🕹️ Como Jogar
+### 🕹️ Como Jogar
 
 1. Clique nas cartas para revelá-las.
 2. Encontre os pares de cartas iguais.
@@ -18,7 +18,7 @@ Um jogo da memória simples e divertido, desenvolvido 100% com **HTML**, **CSS**
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+### 🚀 Tecnologias Utilizadas
 
 - HTML5
 - CSS3
@@ -26,7 +26,7 @@ Um jogo da memória simples e divertido, desenvolvido 100% com **HTML**, **CSS**
 
 ---
 
-## 📁 Estrutura do Projeto
+### 📁 Estrutura do Projeto
 
 📦 memory/
 
@@ -35,11 +35,14 @@ Um jogo da memória simples e divertido, desenvolvido 100% com **HTML**, **CSS**
 - scripts.js
 - assets/
 
-## 🧩 Funcionalidades
+---
+
+### 🧩 Funcionalidades
 
 - Animação de virar carta
 - Verificação automática de pares
 - Mensagem quando todos os pares são encontrados
 
-📢 Créditos
+---
+
 Desenvolvido por Rodrigo Gonçalves com 💙.
